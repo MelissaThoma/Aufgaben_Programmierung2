@@ -1,4 +1,5 @@
 print("Hallo")
+print("why???")
 
 """ Notenverwaltung
 ---------------
